@@ -1,0 +1,29 @@
+{
+  "name": "boxlayout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drive-O/boxlayout.git"
+  },
+  "author": "Philipp Rost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drive-O/boxlayout/issues"
+  },
+  "homepage": "https://github.com/Drive-O/boxlayout#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.3.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-import": "^9.1.0",
+    "postcss-nesting": "^2.3.1",
+    "postcss-simple-vars": "^3.0.0"
+  }
+}
